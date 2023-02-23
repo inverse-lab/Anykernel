@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string= TheDeepestShadow Kernel - zaidannn7
+kernel.string=IntoTheShadow Kernel - zaidannn7
 do.devicecheck=0
 do.modules=0
 do.systemless=0
@@ -14,6 +14,9 @@ device.name1=juice
 supported.versions=
 supported.patchlevels=
 '; } # end properties
+
+ui_print ""
+ui_print "
 
 # AnyKernel install
 # begin attributes
